@@ -1,1 +1,3 @@
-# reactWorkshop2018-08-25
+# How to use.
+* npm install 
+* npm start
